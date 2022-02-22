@@ -5,3 +5,4 @@ Random collection of resources on various topics
   - [PG Stats](https://pgstats.dev/)
 - Python
   - [Dabeaz basic Python course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+  - [Python from the very beginning - Book](https://coherentpdf.com/python/index.html)
