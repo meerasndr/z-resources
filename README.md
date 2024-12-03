@@ -1,5 +1,9 @@
 # z-resources
 Random collection of resources on various topics
+
+- Shell and Linux commands
+  - [Effective Shell](https://effective-shell.com/)
+  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - Postgres
   - [PG Exercises](https://pgstats.dev/)
   - [PG Stats](https://pgstats.dev/)
